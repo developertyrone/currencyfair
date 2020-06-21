@@ -1,4 +1,4 @@
-# currencyfair
+# Currencyfair
 //Assumption
 1. Assume seldom database product change on microservice, Simpler design for demo and amount of time, service layer has been skipped.
 2. Since Service Layer skipped, a simpler approach on testing by API layer
